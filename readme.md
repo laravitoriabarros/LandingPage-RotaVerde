@@ -16,6 +16,16 @@ Landing Page criada para apresentar o aplicativo "Rota Verde" e permitir que o u
 
 ---
 
+## 🔍 Visual
+
+Segue o resultado final de como ficou a LP:
+
+![alt text](image-1.png) ![alt text](image-2.png)
+![alt text](image-3.png) ![alt text](image-4.png)
+![alt text](image-5.png)
+
+---
+
 ## 💻 Como clonar
 Para clonar este repositório na sua máquina, é só usar o comando no seu terminal:
 
